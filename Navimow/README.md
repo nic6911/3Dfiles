@@ -1,9 +1,9 @@
 # Instructions
-Print 2 x wheels with or without the logo. the logo and wheel are in two separate files but in the same coordinate frame so that you can print them combined with a multicolor printer.
-Use 3 x M4x35mm bolts and 3 x SL M4 nuts
+Print 2 x wheels with or without the logo. the logo and wheel are in two separate files but in the same coordinate frame so that you can print them combined with a multicolor printer.  
+Use 3 x M4x35mm bolts and 3 x SL M4 nuts. 
 
-Unscrew the original wheelcaps (screws holea are on the back of the wheels.
-Use the existing holes for mounting the spikes.
+Unscrew the original wheelcaps (screws holea are on the back of the wheels.  
+Use the existing holes for mounting the spikes.  
 
 
 If you like then please
