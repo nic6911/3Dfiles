@@ -2,6 +2,8 @@
 Print with minimum 50% infill in ABS or similar.
 Use 6 x M4 nuts which are either self-locking or add loctite to ensure that blades do not fall off. 
 
+for the larger diameter discs you have to remove the metal shield that sits behind the cut disc - it's a 4 screw operation
+
 If you like then please
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/nic6911w)
