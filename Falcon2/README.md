@@ -5,7 +5,7 @@ I own a Falcon 2 22W laser and adaptions of my own design will be posted here
 When engraving or cutting fumes will come and to limit this a fume extractor seemed like a reasonable addition to the system. My design requires 8 x M3x10mm bolts + 4 M3 nuts. Make sure to keep the cover plate on the laser in place (do not take it off or lift it) when replacing the screws.
 The hose diameter for the extractor design is 19mm Ø internally. Use a lightweight hose to avoid impacting the motion of the laser head (skipping steps).
 I intend to use a 2UUL uuFilter fume extractor. I will share when done.
-![Fume Extractor](/2.jpg)
+![Fume Extractor](/Falcon2/2.jpg)
 
 
 If you like then please
