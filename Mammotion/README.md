@@ -2,8 +2,8 @@
 30mm pole with 24mm thread in the bottom. Bottom part is with 24mm thread, top is with "clamp" using a 50mm long M3 bolt and an M3 nut. 
 Use ABS or other weather resistant material and preferably not less than 35% infill.
 
-![Pic1](/20240618_050835970_iOS.jpg)
-![Pic2](/20240618_050901287_iOS.jpg)
+![Pic1](20240618_050835970_iOS.jpg)
+![Pic2](20240618_050901287_iOS.jpg)
 
 If you like then please
 
