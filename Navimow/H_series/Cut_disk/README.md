@@ -2,7 +2,8 @@
 Print with minimum 50% infill in ABS or similar.
 Use 6 x M4 nuts which are either self-locking or add loctite to ensure that blades do not fall off. 
 
-for the larger diameter discs you have to remove the metal shield that sits behind the cut disc - it's a 4 screw operation
+The diameter of the 240mm disc here is max, and requires removing the shield behind the disc.
+With the max allowable diameter you will get closer to the edge when cutting, and that is the main purpose !
 
 If you like then please
 
