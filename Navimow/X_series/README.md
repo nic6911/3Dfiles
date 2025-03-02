@@ -3,6 +3,8 @@ Navimow X comes with a 25mm pole. The design is intended to be used as a pair of
 Use ABS or other weather resistant material and preferably not less than 20% infill.
 
 ![Pic1](image.png)
+![Pic2](mounted1.jpg)
+![Pic3](mounted2.jpg)
 
 If you like then please
 
